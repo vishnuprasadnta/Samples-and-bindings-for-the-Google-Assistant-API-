@@ -1,6 +1,6 @@
 # Google Assistant SDK for Python
 
-This repository contains the [Python][python] packages for the [Google Assistant SDK][google-assistant-sdk].
+This repository contains the [Python] [python] packages for the [Google Assistant SDK][google-assistant-sdk].
 
 To get started, see the following developer guides:
 - [Getting Started with Raspberry Pi 3 and Python][getting-started-rpi3-python].
